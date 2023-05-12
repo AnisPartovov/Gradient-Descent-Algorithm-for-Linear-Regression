@@ -8,4 +8,5 @@ Output: Regression line y=b+mx
 
 
 Part 2:
+
 Visualize the convergence with different learning rates.
